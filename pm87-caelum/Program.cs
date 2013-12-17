@@ -10,6 +10,7 @@ namespace pm87_caelum
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Exemplo de teste de uso do gita"); 
             Console.WriteLine("Exemplo de teste de uso do git"); 
             Console.WriteLine("Exemplo de teste de uso do git2"); 
         }
